@@ -21,10 +21,10 @@ This Chrome extension allows users to encrypt and decrypt text using two differe
 -   Use the checkbox to switch between Basic and Advanced encryption methods.
 ## Screenshots
 ### Basic Encryption
-![enter image description here](Outputs/Screenshot(761).png)
+![enter image description here](Outputs/Screenshot1.png)
 ### Basic Decryption
-![enter image description here](Outputs/Screenshot(762).png)
+![enter image description here](Outputs/Screenshot2.png)
 ### Advanced Encryption
-![enter image description here](Outputs/Screenshot(763).png)
+![enter image description here](Outputs/Screenshot3.png)
 ### Advanced Encryption
-![enter image description here](Outputs/Screenshot(764).png)
+![enter image description here](Outputs/Screenshot4.png)
